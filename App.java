@@ -7,7 +7,7 @@ class App {
 
         //implementing a while loop to loop the code
         while(true){
-            System.out.println("\nWould you like to continue? y/n");
+            System.out.println("\nWould you like to continue? y/n ");
             String userCont = sc.nextLine().toLowerCase();
 
             if(!(userCont.equals("y") ||userCont.equals("n"))){
