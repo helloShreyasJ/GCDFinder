@@ -3,7 +3,7 @@ import java.util.Scanner;
 class App {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
-        System.out.println("\n|  Welcome to the GCD Finder  |");
+        System.out.println("\n|  Welcome to the GCD Calculator  |");
 
         //implementing a while loop to loop the code
         while(true){
